@@ -1,0 +1,4 @@
+env/
+.env
+video/
+video_procesado/
